@@ -1,1 +1,2 @@
-This is an example file  in bash
+# This is an example file in bash
+# It is really an example
