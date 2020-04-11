@@ -1,3 +1,5 @@
+#this is my additional comment for challenge 2
+
 #!/bin/bash
 #This will contain my new analytical method
 #This is an example file in bash
