@@ -1,4 +1,6 @@
 #!/bin/bash
+#This is my comment on the first line
+
 #This will contain my new analytical method
 #This is an example file in bash
 
