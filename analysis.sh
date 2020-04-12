@@ -1,8 +1,7 @@
+#This is my comment on the first line
 #this is my additional comment for challenge 2
 
 #!/bin/bash
-#This is my comment on the first line
-
 #This will contain my new analytical method
 #This is an example file in bash
 
