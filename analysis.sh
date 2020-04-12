@@ -1,3 +1,4 @@
+#This is my comment on the first line
 #this is my additional comment for challenge 2
 
 #!/bin/bash
