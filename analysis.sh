@@ -1,4 +1,5 @@
-#This is the best comment ever written
+#This is the best comment ever written on the first line
+#My comment for challenge 2
 #This is my comment on the first line
 #this is my additional comment for challenge 2
 
@@ -20,3 +21,4 @@
 #Add the last line
 
 #here is my new comment on the last line
+#here is my other comment for challenge 1
